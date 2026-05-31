@@ -6,7 +6,11 @@ Important:
 
 database:
 1.Make mongoDB Atlas database link to execute code succesfully 
-2.name this linkas "MONGO_URI " in both files "model_2_final (ultimate_drowsiness_system).ipynb" and "model1_final (eye_state_detector).ipynb"
+2.name this link as "MONGO_URI " in both files "model_2_final (ultimate_drowsiness_system).ipynb" and "model1_final (eye_state_detector).ipynb"
 
 Model:
 1. upload "eye_state_detector.h5" in "model_2_final (ultimate_drowsiness_system).ipynb" as it is required for training
+
+Real time result:
+1. use "generate_predictions.ipynb"
+2. upload "ultimate_drowsiness_system.h5" in "generate_predictions.ipynb" to get results
