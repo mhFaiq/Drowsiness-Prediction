@@ -1,0 +1,12 @@
+Dataset used for this project 
+1. https://www.kaggle.com/datasets/sehriyarmemmedli/open-closed-eyes-dataset
+2. https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd
+
+Important:
+
+database:
+1.Make mongoDB Atlas database link to execute code succesfully 
+2.name this linkas "MONGO_URI " in both files "model_2_final (ultimate_drowsiness_system).ipynb" and "model1_final (eye_state_detector).ipynb"
+
+Model:
+1. upload "eye_state_detector.h5" in "model_2_final (ultimate_drowsiness_system).ipynb" as it is required for training
